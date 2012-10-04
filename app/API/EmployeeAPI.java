@@ -10,6 +10,5 @@ package API;
 import models.*;
 public class EmployeeAPI {
 
-               Employee objEmployee=new Employee();
 
 }
