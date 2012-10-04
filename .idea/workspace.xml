@@ -79,10 +79,10 @@
       <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="78" selection-start="763" selection-end="763" vertical-scroll-proportion="0.7134588">
+            <state line="19" column="33" selection-start="361" selection-end="361" vertical-scroll-proportion="0.4674385">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#650#660#0" expanded="true" />
+                <element signature="e#600#610#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -649,10 +649,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="78" selection-start="763" selection-end="763" vertical-scroll-proportion="0.7134588">
+        <state line="19" column="33" selection-start="361" selection-end="361" vertical-scroll-proportion="0.4674385">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#650#660#0" expanded="true" />
+            <element signature="e#600#610#0" expanded="true" />
           </folding>
         </state>
       </provider>

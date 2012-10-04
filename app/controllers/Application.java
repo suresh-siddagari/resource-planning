@@ -17,7 +17,7 @@ public class Application extends Controller {
   public static Result index() {
     return ok(index.render("Your new application is ready."));
   }
-                                 asdfasfasfasfdsaf
+
   public static void employee(){
 
       Query objQuery= JPA.em().createQuery("select empId, empName,empType from Employee ");
